@@ -1,6 +1,6 @@
 # TypeScript Learning Tutorials
 
-Welcome to the comprehensive TypeScript learning resource! This repository contains structured tutorials from basics to advanced concepts, complete with examples, explanations, and practical projects.
+Welcome to the comprehensive TypeScript learning resource by Lal Chand the red moon! This repository contains structured tutorials from basics to advanced concepts, complete with examples, explanations, and practical projects.
 
 ## 📚 Table of Contents
 
