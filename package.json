@@ -1,0 +1,22 @@
+{
+  "name": "typescript-learning-tutorials",
+  "version": "1.0.0",
+  "description": "Comprehensive TypeScript learning tutorials from basics to advanced",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "tutorial",
+    "learning",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
